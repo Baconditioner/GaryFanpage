@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/GaryFanpage/static/css/main.861d337d.chunk.css",
+    "main.js": "/GaryFanpage/static/js/main.f02d973e.chunk.js",
+    "main.js.map": "/GaryFanpage/static/js/main.f02d973e.chunk.js.map",
+    "runtime-main.js": "/GaryFanpage/static/js/runtime-main.7c6eb274.js",
+    "runtime-main.js.map": "/GaryFanpage/static/js/runtime-main.7c6eb274.js.map",
+    "static/css/2.ec02d681.chunk.css": "/GaryFanpage/static/css/2.ec02d681.chunk.css",
+    "static/js/2.d24d1b79.chunk.js": "/GaryFanpage/static/js/2.d24d1b79.chunk.js",
+    "static/js/2.d24d1b79.chunk.js.map": "/GaryFanpage/static/js/2.d24d1b79.chunk.js.map",
+    "index.html": "/GaryFanpage/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/GaryFanpage/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.861d337d.chunk.css.map": "/GaryFanpage/static/css/main.861d337d.chunk.css.map",
+    "static/js/2.d24d1b79.chunk.js.LICENSE.txt": "/GaryFanpage/static/js/2.d24d1b79.chunk.js.LICENSE.txt",
+    "static/media/aboutOne.808aa322.PNG": "/GaryFanpage/static/media/aboutOne.808aa322.PNG",
+    "static/media/aboutTwo.83554881.jpg": "/GaryFanpage/static/media/aboutTwo.83554881.jpg",
+    "static/media/coolgary.8a7e6f08.PNG": "/GaryFanpage/static/media/coolgary.8a7e6f08.PNG",
+    "static/media/featurePic.1425caf8.PNG": "/GaryFanpage/static/media/featurePic.1425caf8.PNG",
+    "static/media/fedoragary.7427e4ce.PNG": "/GaryFanpage/static/media/fedoragary.7427e4ce.PNG",
+    "static/media/funnylookinggary.712c89db.PNG": "/GaryFanpage/static/media/funnylookinggary.712c89db.PNG",
+    "static/media/garyHomepage.50d52693.PNG": "/GaryFanpage/static/media/garyHomepage.50d52693.PNG",
+    "static/media/garybeanie1.08692c8b.PNG": "/GaryFanpage/static/media/garybeanie1.08692c8b.PNG",
+    "static/media/garyeating1.b6b5a707.PNG": "/GaryFanpage/static/media/garyeating1.b6b5a707.PNG",
+    "static/media/garyknife1.ccc08259.PNG": "/GaryFanpage/static/media/garyknife1.ccc08259.PNG",
+    "static/media/garyknife2.a1ae8eba.PNG": "/GaryFanpage/static/media/garyknife2.a1ae8eba.PNG",
+    "static/media/garypolarbear1.9a21d7ee.PNG": "/GaryFanpage/static/media/garypolarbear1.9a21d7ee.PNG",
+    "static/media/garypolarbear2.37e616b6.PNG": "/GaryFanpage/static/media/garypolarbear2.37e616b6.PNG",
+    "static/media/hikinggary.3bba3af0.PNG": "/GaryFanpage/static/media/hikinggary.3bba3af0.PNG",
+    "static/media/nicelookinggary.f0aea16a.PNG": "/GaryFanpage/static/media/nicelookinggary.f0aea16a.PNG",
+    "static/media/profilegary.4598a89c.PNG": "/GaryFanpage/static/media/profilegary.4598a89c.PNG",
+    "static/media/singingsleepygary.fbaa62dc.PNG": "/GaryFanpage/static/media/singingsleepygary.fbaa62dc.PNG",
+    "static/media/sippinggary.d1564cf9.PNG": "/GaryFanpage/static/media/sippinggary.d1564cf9.PNG",
+    "static/media/sleepygary1.c1cd3e09.PNG": "/GaryFanpage/static/media/sleepygary1.c1cd3e09.PNG",
+    "static/media/smilinggary.6c39a97f.PNG": "/GaryFanpage/static/media/smilinggary.6c39a97f.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c6eb274.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.d24d1b79.chunk.js",
+    "static/css/main.861d337d.chunk.css",
+    "static/js/main.f02d973e.chunk.js"
+  ]
+}
