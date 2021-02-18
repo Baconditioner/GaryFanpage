@@ -1,0 +1,15 @@
+.nav {
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    z-index: 999;
+    position: fixed;
+    width: 100%;
+    background: #000;
+}
+
+.nav h1 {
+    color: #fff;
+    font-style: italic;
+}
