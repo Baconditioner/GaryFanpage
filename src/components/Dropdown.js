@@ -54,7 +54,7 @@ const DropdownLink = styled(Link)`
     align-items: center; 
     justify-content: center;
     font-size: 1.5rem;
-    text-decoration: none;
+    text-decoration: none!important;
     list-style: none;
     cursor: pointer;
     transition: 0.2s ease-in-out;

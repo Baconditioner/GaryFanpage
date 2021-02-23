@@ -18,6 +18,10 @@ const Heading = styled.h1`
   padding-top: 10rem;
   color: #000;
   line-height: 1.2;
+  @media screen and (max-width: 768px) {
+    /* margin: auto; */
+    font-size: 300%;
+  }
 `;
 
 function createEntry(qaa) {

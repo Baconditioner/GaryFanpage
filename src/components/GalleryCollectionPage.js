@@ -28,7 +28,7 @@ const Picture = styled.img`
 `;
 
 const DescriptionContainer = styled.div`
-  height: 20vh;
+  height: flex;
   display: flex;
   justify-content: center;
   align-items: center;
