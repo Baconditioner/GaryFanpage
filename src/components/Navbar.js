@@ -3,7 +3,6 @@ import { menuData } from "../data/MenuData";
 import styled, { css } from "styled-components/macro";
 import { Link, useLocation } from "react-router-dom";
 import { FaBars } from "react-icons/fa";
-import { Button } from "./Button";
 
 const NavLink = css`
   color: #fff;
@@ -12,7 +11,11 @@ const NavLink = css`
   padding: 0 1rem;
   height: 100%;
   cursor: pointer;
-  text-decoration: none;
+  text-decoration: none!important;
+
+   &:hover {
+    color: #fff;
+   };
 `;
 
 const Nav = styled.nav`
@@ -93,7 +96,7 @@ function Navbar({ toggle }) {
 
   return (
     <Nav style = {style}>
-      <Logo to="/">kawaiigareeeee</Logo>
+      <Logo to="/" >kawaiigareeeee</Logo>
       <MenuBars onClick={toggle} />
       <NavMenu>
         {menuData.map((item, index) => (

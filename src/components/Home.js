@@ -81,6 +81,13 @@ const HomeContent = styled.div`
     margin-bottom: 0.8rem;
     margin-left: 80px;
   }
+  
+  p {
+    text-shadow: 0px 0px 20px rgba(0, 0, 0, 0.4);
+    text-align: left;
+    margin-bottom: 0.8rem;
+    margin-left: 80px;
+  }
 `;
 
 function Home({ slides }) {
@@ -108,9 +115,9 @@ function Home({ slides }) {
                   />
                   <HomeContent>
                     <h1 data-aos="fade-down" data-aos-duration="600">
-                     
                       {slide.title}
                     </h1>
+                    <p>{slide.desc}</p>
                   </HomeContent>
                 </HomeSlider>
               </HomeSlide>

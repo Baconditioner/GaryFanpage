@@ -9,7 +9,7 @@ export const Button = styled(Link)`
     min-width: 100px;
     max-width: 200px;
     cursor: pointer;
-    text-decoration: none;
+    text-decoration: none!important;
     transition: 0.3s;
     display: flex;
     justify-content: center;
@@ -20,5 +20,6 @@ export const Button = styled(Link)`
 
     &:hover {
         transform: translateY(-2px);
+        color: #000d1a;
     }
 `;

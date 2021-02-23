@@ -10,9 +10,8 @@ import About from './pages/About';
 import Aos from 'aos'
 import 'aos/dist/aos.css'
 import Contact from './pages/Contact';
-import GallerySlides from './components/GallerySlide';
-import Gallery from './pages/Gallery';
-
+import GalleryPage from './pages/GalleryPage'
+import faq from './pages/faq';
 
 
 function App() {
@@ -35,8 +34,9 @@ function App() {
       <Switch>
         <Route path='/' exact component={Homepage} />
         <Route path='/about' component={About} />
-        <Route path='/gallery' component={Gallery} />
+        <Route path='/gallery' component={GalleryPage} />
         <Route path='/contact' component={Contact} />
+        <Route path='/faq' component={faq} />
       </Switch>
       <Footer />
 

@@ -46,6 +46,8 @@ const Quote = styled.div`
   }
 `;
 
+
+
 function About() {
   return (
     <AboutSection>

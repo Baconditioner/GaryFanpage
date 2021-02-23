@@ -18,68 +18,140 @@ import ImageSeventeen from '../pics/sippinggary.PNG'
 import ImageEighteen from '../pics/sleepygary1.PNG'
 import ImageNineteen from '../pics/smilinggary.PNG'
 import ImageTwenty from '../pics/profilegary.PNG'
+import ImageTwentyOne from '../pics/doubtinggary.PNG'
+import ImageTwentyTwo from '../pics/drinkinggary.PNG'
+import ImageTwentyThree from '../pics/happygary.PNG'
+import ImageTwentyFour from '../pics/yawninggary.PNG'
+import ImageTwentyFive from '../pics/hunchedbackgary.png'
 
 
 
-export const SliderData = [
+  const galleryData = [
     {
-        image: ImageOne
+        id: 1,
+        image: ImageOne,
+        desc: "The Cool Gary"
     },
     {
-        image: ImageTwo
+        id: 2,
+        image: ImageTwo,
+        desc: "The Fedora Gary"
     },
     {
-        image: ImageThree
+        id: 3,
+        image: ImageThree,
+        desc: "The Normal Gary"
     },
     {
-        image: ImageFour
+        id: 4,
+        image: ImageFour,
+        desc: "The Sideway Fedora Gary"
     },
     {
-        image: ImageFive
+        id: 5,
+        image: ImageFive,
+        desc: "The Creepy Smiling Gary"
     },
     {
-        image: ImageSix
+        id: 6,
+        image: ImageSix,
+        desc: "The Glasses Gary"
     },
     {
-        image: ImageSeven
+        id: 7,
+        image: ImageSeven,
+        desc: "The Eating Gary"
     },
     {
-        image: ImageEight
+        id: 8,
+        image: ImageEight,
+        desc: "The Staring Gary"
     },
     {
-        image: ImageNine
+        id: 9,
+        image: ImageNine,
+        desc: "The Old Gary"
     },
     {
-        image: ImageTen
+        id: 10,
+        image: ImageTen,
+        desc: "The Killer Gary"
     },
     {
-        image: ImageEleven
+        id: 11,
+        image: ImageEleven,
+        desc: "The Knife Gary"
     },
     {
-        image: ImageTwelve
+        id: 12,
+        image: ImageTwelve,
+        desc: "The Polar Bear Loving Gary"
     },
     {
-        image: ImageThirteen
+        id: 13,
+        image: ImageThirteen,
+        desc: "The Polar Bear Thumbs Up Gary"
     },
     {
-        image: ImageFourteen
+        id: 14,
+        image: ImageFourteen,
+        desc: "The Hiking Gary"
     },
     {
-        image: ImageFifteen
+        id: 15,
+        image: ImageFifteen,
+        desc: "The Good Picture Gary"
     },
     {
-        image: ImageSixteen
+        id: 16,
+        image: ImageSixteen,
+        desc: "The Singing Gary"
     },
     {
-        image: ImageSeventeen
+        id: 17,
+        image: ImageSeventeen,
+        desc: "The Sipping Gary"
     },
     {
-        image: ImageEighteen
+        id: 18,
+        image: ImageEighteen,
+        desc: "The Sleeping Gary"
     },
     {
-        image: ImageNineteen
+        id: 19,
+        image: ImageNineteen,
+        desc: "The Smiling Gary"
     },
     {
-        image: ImageTwenty
+        id: 20,
+        image: ImageTwenty,
+        desc: "The Abnormal Gary"
+    },
+    {
+        id: 21,
+        image: ImageTwentyOne,
+        desc: "The Doubting Gary"
+    },
+    {
+        id: 22,
+        image: ImageTwentyTwo,
+        desc: "The Drinking Gary"
+    },
+    {
+        id: 23,
+        image: ImageTwentyThree,
+        desc: "The Very Happy Gary"
+    },
+    {
+        id: 24,
+        image: ImageTwentyFour,
+        desc: "The Yawning Gary"
+    },
+    {
+        id: 25,
+        image: ImageTwentyFive,
+        desc: "The Hunchback Gary"
     }
 ]
+
+export default galleryData;

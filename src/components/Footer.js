@@ -3,6 +3,7 @@ import styled, { css } from "styled-components/macro";
 import { Button } from "./Button";
 import { Link } from "react-router-dom";
 import {FaInstagram, FaLinkedinIn} from 'react-icons/fa'
+import faq from "../pages/faq";
 
 const Section = styled.section`
     background: #000d1a;
@@ -106,14 +107,14 @@ function Footer() {
         <FooterTop>
           <Quote>
             <h3>
-              Let's find <br /> your Favourite Gary Picture
+              Let's find <br /> your favourite Gary picture
             </h3>
           </Quote>
           <FooterInfo>
             <h4>Contact Us</h4>
-            <Link to="/homes">FAQ</Link>
-            <Link to="/homes">Support</Link>
-            <Link to="/homes">Questions</Link>
+            <Link to="/faq">FAQ</Link>
+            <Link to="/support">Support</Link>
+            <Link to="/about">Questions</Link>
           </FooterInfo>
         </FooterTop>
         <FooterBottom>

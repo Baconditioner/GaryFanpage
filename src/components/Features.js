@@ -80,6 +80,7 @@ function Features() {
         <Wrap>
           <ColumnLeft>
             <Content
+            
               data-aos="fade-right"
               data-aos-duration="300"
               data-aos-delay="300"
