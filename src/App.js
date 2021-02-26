@@ -12,6 +12,7 @@ import 'aos/dist/aos.css'
 import Contact from './pages/Contact';
 import GalleryPage from './pages/GalleryPage'
 import faq from './pages/faq';
+import ScrollToTop from './components/ScrollToTop';
 
 
 function App() {
@@ -28,6 +29,8 @@ function App() {
 
   return (
     <>
+      {/* <Homepage /> */}
+      <ScrollToTop />
       <GlobalStyle />
       <Navbar toggle={toggle} />
       <Dropdown isOpen={isOpen} toggle={toggle} />

@@ -39,8 +39,14 @@ const DescriptionContainer = styled.div`
 const Description = styled.div`
   color: #fff;
   h1 {
+    margin-left: 1rem;
+    margin-right: 1rem;
     font-size: 5rem;
+    @media screen and (max-width: 768px) {
+    font-size: 3rem;
   }
+  }
+
 `;
 
 const WhiteBar = styled.section`
